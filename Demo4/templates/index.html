@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% for f in files %}
+    <a href="/app/download/{{ f }}">{{ f }}
+    </a><br/>
+{% endfor %}
+
+<form action="{% url 'app:uploadfile' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+       <input type="file" name="file" id="file" />
+       <input type="submit" value="上传">
+    </form>
+</body>
+</html>
