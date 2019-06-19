@@ -1,7 +1,8 @@
 # coding:utf-8
-import pytest
-from DatabasePackage import DbUser
 
+
+import pytest
+from db_package_test.db_package import DbUser
 
 class TestMethod(object):
 
@@ -16,16 +17,24 @@ class TestMethod(object):
         for i in data:
             cls.db.insert(i)        # 向数据库插入数据
 
-    def test_get_exist(self, get_date):        # 定义测试获取数据函数
-        result = self.db.get(get_date['name'])
-        assert result == get_date
+    @pytest.mark.parametrize(
+                        argnames="data",
+                        argvalues=[
+                            {'name': 'zhangsan', 'age': 18,'job': 'student'},
+                            {'name': 'lisi', 'age': 18, 'job': 'student'}
+                        ])
+    def test_get_exist(self, data):
+        """# 定义测试获取数据函数"""
+        result = self.db.get(data['name'])
+        assert result == data
 
-    @pytest.fixture(params=[{'name': 'wangwu', 'age': 18, 'job': 'student'}])
-    def get_name(self, request):        # 获取字典函数
-        return request.param            # 获取传入的字典
 
-    def test_get_not_exist(self, get_name):        # 定义测试没有获取到属性值得函数
-        result = self.db.get(get_name['name'])    # 获取字典传入的key='name'的值
+    @pytest.mark.parametrize(argnames="data",
+                             argvalues=[
+                                {'name': 'wangwu', 'age': 18, 'job': 'student'}
+                             ])
+    def test_get_not_exist(self, data):  # 定义测试没有获取到属性值得函数
+        result = self.db.get(data['name'])  # 获取字典传入的key='name'的值
         assert result == {}
 
     @pytest.mark.parametrize(argnames="name, data",
@@ -33,7 +42,7 @@ class TestMethod(object):
                                 ('zhangsan', {'age': 18, 'job': 'student'}),
                                 ('lisi', {'age': 18})
                              ])
-    def test_update_exist(self, name, data):        # 定义测试更新数据库数据函数
+    def test_update_exist(self, name, data):  # 定义测试更新数据库数据函数
         self.db.update(name, data)
         result = self.db.get(name)
         for key, value in data.items():
