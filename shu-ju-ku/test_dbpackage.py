@@ -62,14 +62,3 @@ def test_delete_not_exist():
     with pytest.raises(ValueError):
         db.delete(name)
 
-
-
-
-
-
-
-
-
-
-
-
