@@ -1,7 +1,7 @@
 # coding:utf-8
 
 import pytest
-from DatabasePackage import DbUser
+from db_package import DbUser
 
 
 def test_insert():
