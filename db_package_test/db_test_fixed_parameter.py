@@ -11,6 +11,7 @@ def test_insert():
     result = db.get('zhangsan')
     assert result == user_info
 
+
 def test_get_exist():
     name = 'zhangsan'
     db = DbUser()
@@ -18,6 +19,7 @@ def test_get_exist():
     db.insert(user_info)
     result = db.get(name)
     assert result == user_info
+
 
 def test_get_not_exist():
     name = 'lisi'
@@ -38,13 +40,13 @@ def test_update_exist():
         assert result[key] == value
 
 
-
 def test_update_not_exist():
     db = DbUser()
     name = 'lisi'
     data = {'age': 23}
     with pytest.raises(ValueError):
         db.update(name, data)
+
 
 def test_delete_exist():
     db = DbUser()
@@ -55,6 +57,7 @@ def test_delete_exist():
     db.delete(name)
     result1 = db.get(name)
     assert result1 == {}
+
 
 def test_delete_not_exist():
     db = DbUser()

@@ -2,8 +2,6 @@
 
 #   'https://www.quanjing.com/creative/topic/1'
 
-
-
 import time
 from tornado import gen, httpclient, ioloop
 from requests import get

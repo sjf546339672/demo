@@ -1,4 +1,4 @@
-#-*- coding:UTF-8 -*-
+# -*- coding:UTF-8 -*-
 
 import os
 from tornado import httpclient, gen, ioloop
@@ -6,12 +6,10 @@ from bs4 import BeautifulSoup
 import requests
 
 
-
 path = 'C:/Users/jife/Desktop/Documen/Tornado_demo/rrrr/'
 # path = 'C:/Users/Administrator/Desktop/Documen/Tornado_demo/rrrr/'
 client = httpclient.AsyncHTTPClient()
 loop = ioloop.IOLoop.current()
-
 
 
 @gen.coroutine
@@ -25,19 +23,6 @@ def http_fetch(url):
             print('Download {} success'.format(filename))
 
 
-
-    # response = yield client.fetch(url)
-    # with open(os.path.join(path, filename), 'wb')as file:
-    #     file.write(response.body)
-    #     file.flush()
-    #
-    # open_file = open(os.path.join(path, filename),'wb')
-    # open_file.write(response.body)
-    # open_file.flush()
-    # open_file.close()
-    # print('正在写入照片{}'.format(filename))
-
-
 @gen.coroutine
 def work():
     # print(link_list[2]['src'])
@@ -49,7 +34,6 @@ def work():
     for link in link_list:
         src = link['src']
         loop.spawn_callback(http_fetch, src)
-
 
 
 if __name__ == '__main__':

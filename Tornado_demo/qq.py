@@ -1,8 +1,4 @@
-#coding:utf-8
-
-
-
-
+# coding:utf-8
 
 # import tornado.web
 # from tornado import gen
@@ -25,7 +21,6 @@
 # if __name__ == '__main__':
 #     application.listen(8888)
 #     tornado.ioloop.IOLoop.instance().start()
-
 
 
 # def add(x,y):
@@ -58,19 +53,6 @@
 #     ])
 #     application.listen(8888)
 #     tornado.ioloop.IOLoop.current().start()
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # import time
@@ -117,15 +99,6 @@
 #     application.listen(8888)
 #     tornado.ioloop.IOLoop.current().start()
 
-
-
-
-
-
-
-
-
-
 # import time
 # import logging
 # import tornado.ioloop
@@ -171,14 +144,6 @@
 #     # app.listen(8000)
 #     tornado.ioloop.IOLoop.current().start()
 
-
-
-
-
-
-
-
-
 # import os
 # import time
 # from celery import Celery
@@ -194,13 +159,6 @@
 #
 # if __name__ == '__main__':
 #     celery.start()
-
-
-
-
-
-
-
 
 # import tornado.ioloop
 # from tornado.gen import coroutine
@@ -236,9 +194,6 @@
 # if __name__ == "__main__":
 #     main()
 
-
-
-
 # LIST_INFO = []
 # for i in range(200):
 #     temp = {'username':"zhang"+str(i),'email':str(i)+"@163.com"}
@@ -246,10 +201,6 @@
 #
 # for i in LIST_INFO:
 #     print(i)
-
-
-
-
 
 # from tornado.web import Application,RequestHandler
 # from tornado.ioloop import IOLoop
@@ -268,10 +219,6 @@
 #     ])
 #     app.listen(8000)
 #     IOLoop.current().start()
-
-
-
-
 
 # class Future(object):
 #     def set_result(self,result):
@@ -312,10 +259,6 @@
 # print( new_zoo[2][2])
 # print(new_zoo[2][0])
 
-
-
-
-
 # shoplist = ['apple', 'mango', 'carrot', 'banana']
 # mylist = shoplist
 # print(mylist)
@@ -328,10 +271,6 @@
 # mylist = shoplist[:]
 # del mylist[0]
 # print  shoplist
-
-
-
-
 
 
 # import os
@@ -1253,8 +1192,7 @@
 #             self.c.execute("DELETE FROM USER WHERE name='{}'".format(data))
 #         else:
 #             print("不存在")
-#
-#
+
 # a = DbUser()
 # a.insert({'name': 'zhangsan', 'age': 18, 'job': 'student'})
 # a.get('zhangsan')
@@ -1263,16 +1201,47 @@
 # result = a.get('zhangsan')
 # print(result)
 
-
-
 # import pytest
+
 # @pytest.mark.parametrize("data", [{'name': 'zhangsan', 'age': 18, 'job': 'student'}, {'name': 'zhangsan', 'age': 18, 'job': 'student'}])
 # def test_insert(data):
 #     print(data)
 
-
-
 import pytest
+
+
+# list1 = [1, 2, 3, 4, 5]
+# t = iter(list1)
+# print(t.next())
+# print(t.next())
+
+
+# 并发池
+# from concurrent.futures import ThreadPoolExecutor
+# import time
+#
+#
+# def working(message):
+#     time.sleep(2)
+#     return message
+
+
+# pool = ThreadPoolExecutor(max_workers=2)
+#
+# worker1 = pool.submit(working, ("hello"))
+# worker2 = pool.submit(working, ("world"))
+
+
+# print(worker1.result())
+# print(worker2.result())
+
+
+# 同步阻塞调用：得不到结果不返回，线程进入阻塞态等待。
+# 同步非阻塞调用：得不到结果不返回，线程不阻塞一直在CPU运行。
+# 异步阻塞调用：去到别的线程，让别的线程阻塞起来等待结果，自己不阻塞。
+# 异步非阻塞调用：去到别的线程，别的线程一直在运行，直到得出结果。
+
+
 
 
 

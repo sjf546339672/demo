@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Tornado_demo/qq.py" line="898" />
+    <bookmark url="file://$PROJECT_DIR$/Tornado_demo/qq.py" line="837" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c6e415-2edc-497e-8136-5c1a2cd3073a" name="Default" comment="" />
@@ -13,18 +13,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Documen$sqlite_3.coverage" NAME="sqlite-3 Coverage Results" MODIFIED="1560750566316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shu-ju-ku" />
-    <SUITE FILE_PATH="coverage/Documen$qq.coverage" NAME="qq Coverage Results" MODIFIED="1560918699237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tornado_demo" />
     <SUITE FILE_PATH="coverage/Documen$test_class_dbpackage.coverage" NAME="test_class_dbpackage Coverage Results" MODIFIED="1560865961403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shu-ju-ku" />
-    <SUITE FILE_PATH="coverage/Documen$runing.coverage" NAME="runing Coverage Results" MODIFIED="1560823024841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classpack" />
+    <SUITE FILE_PATH="coverage/Documen$test_train.coverage" NAME="test_train Coverage Results" MODIFIED="1561369146816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secondstage/tests" />
     <SUITE FILE_PATH="coverage/Documen$DatabasePackage__1_.coverage" NAME="DatabasePackage (1) Coverage Results" MODIFIED="1560865022607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tornado_demo" />
-    <SUITE FILE_PATH="coverage/Documen$Python_Console__1_.coverage" NAME="Python Console (1) Coverage Results" MODIFIED="1560767902662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Documen$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1560390542727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Documen$test_case.coverage" NAME="test_case Coverage Results" MODIFIED="1561424674391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/secondstage/tests" />
     <SUITE FILE_PATH="coverage/Documen$DatabasePackage.coverage" NAME="DatabasePackage Coverage Results" MODIFIED="1560865844819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shu-ju-ku" />
     <SUITE FILE_PATH="coverage/Documen$cat.coverage" NAME="cat Coverage Results" MODIFIED="1560392217682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/Documen$test_dbpackage.coverage" NAME="test_dbpackage Coverage Results" MODIFIED="1560847347517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shu-ju-ku" />
     <SUITE FILE_PATH="coverage/Documen$Pytesttest.coverage" NAME="Pytesttest Coverage Results" MODIFIED="1560827905887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
-    <SUITE FILE_PATH="coverage/Documen$download.coverage" NAME="download Coverage Results" MODIFIED="1559789189596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tornado_demo" />
+    <SUITE FILE_PATH="coverage/Documen$download.coverage" NAME="download Coverage Results" MODIFIED="1560994265023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tornado_demo" />
+    <SUITE FILE_PATH="coverage/Documen$qq.coverage" NAME="qq Coverage Results" MODIFIED="1560999145532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tornado_demo" />
+    <SUITE FILE_PATH="coverage/Documen$sqlite_3.coverage" NAME="sqlite-3 Coverage Results" MODIFIED="1560750566316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shu-ju-ku" />
+    <SUITE FILE_PATH="coverage/Documen$runing.coverage" NAME="runing Coverage Results" MODIFIED="1560823024841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classpack" />
+    <SUITE FILE_PATH="coverage/Documen$Python_Console__1_.coverage" NAME="Python Console (1) Coverage Results" MODIFIED="1560767902662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Documen$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1560390542727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -42,13 +44,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="db_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db_package_test/tests/db_test.py">
+      <file leaf-file-name="fixture内置参数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/secondstage/tests/fixture内置参数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="22">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qq.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tornado_demo/qq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding>
-                <element signature="e#17#30#0" expanded="true" />
+                <marker date="1561022388856" expanded="true" signature="22114:22292" ph="CREATE TABLE... USER" />
+                <marker date="1561022388856" expanded="true" signature="22446:22504" ph="INSERT INTO USER... " />
+                <marker date="1561022388856" expanded="true" signature="22643:22693" ph="SELECT name,... USER" />
+                <marker date="1561022388856" expanded="true" signature="23126:23161" ph="UPDATE USER " />
+                <marker date="1561022388856" expanded="true" signature="23365:23397" ph="DELETE FROM " />
               </folding>
             </state>
           </provider>
@@ -67,6 +83,7 @@
     <findStrings>
       <find>tg-tid263t000090</find>
       <find>装饰器</find>
+      <find>通过fixture实例自动分组测试</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,7 +95,6 @@
         <option value="$PROJECT_DIR$/Demo4/templates/index.html" />
         <option value="$PROJECT_DIR$/Demo4/App/views.py" />
         <option value="$PROJECT_DIR$/Tornado_demo/demo1.py" />
-        <option value="$PROJECT_DIR$/Tornado_demo/download.py" />
         <option value="$USER_HOME$/Downloads/cat.py" />
         <option value="$PROJECT_DIR$/Tornado_demo/config.ini" />
         <option value="$PROJECT_DIR$/Tornado_demo/testing.out" />
@@ -87,13 +103,28 @@
         <option value="$PROJECT_DIR$/Test/Pytesttest.py" />
         <option value="$PROJECT_DIR$/Tornado_demo/DatabasePackage.py" />
         <option value="$PROJECT_DIR$/shu-ju-ku/DatabasePackage.py" />
-        <option value="$PROJECT_DIR$/Tornado_demo/AsynDownImg.py" />
-        <option value="$PROJECT_DIR$/Tornado_demo/qq.py" />
         <option value="$PROJECT_DIR$/shu-ju-ku/test_dbpackage.py" />
         <option value="$PROJECT_DIR$/shu-ju-ku/test_class_dbpackage.py" />
         <option value="$PROJECT_DIR$/shu-ju-ku/tests/test_class_dbpackage.py" />
         <option value="$PROJECT_DIR$/shu-ju-ku/db_package_test.py" />
+        <option value="$PROJECT_DIR$/db_package_test/db_test_fixed_parameter.py" />
+        <option value="$PROJECT_DIR$/Tornado_demo/download.py" />
+        <option value="$PROJECT_DIR$/Tornado_demo/AsynDownImg.py" />
+        <option value="$PROJECT_DIR$/Tornado_demo/qq.py" />
+        <option value="$PROJECT_DIR$/secondstage/tests/sjf" />
+        <option value="$PROJECT_DIR$/secondstage/tests/path" />
+        <option value="$PROJECT_DIR$/secondstage/tests/test-selenium.py" />
+        <option value="$PROJECT_DIR$/secondstage/tests/pytest.ini.py" />
         <option value="$PROJECT_DIR$/db_package_test/tests/db_test.py" />
+        <option value="$PROJECT_DIR$/secondstage/tests/setup.py" />
+        <option value="$PROJECT_DIR$/secondstage/tests/setup.cfg" />
+        <option value="$PROJECT_DIR$/secondstage/tests/pytest.ini" />
+        <option value="$PROJECT_DIR$/secondstage/tests/conftest.py" />
+        <option value="$PROJECT_DIR$/secondstage/tests/test_para.py" />
+        <option value="$PROJECT_DIR$/secondstage/__init__.py" />
+        <option value="$PROJECT_DIR$/secondstage/tests/fixture内置参数.py" />
+        <option value="$PROJECT_DIR$/secondstage/tests/test_train.py" />
+        <option value="$PROJECT_DIR$/secondstage/tests/test_case.py" />
       </list>
     </option>
   </component>
@@ -105,8 +136,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="729" />
-    <option name="width" value="1195" />
-    <option name="height" value="1033" />
+    <option name="y" value="3" />
+    <option name="width" value="1198" />
+    <option name="height" value="1019" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,26 +166,32 @@
             <path>
               <item name="Documen" type="b2602c69:ProjectViewProjectNode" />
               <item name="Documen" type="462c0819:PsiDirectoryNode" />
-              <item name="db_package_test" type="462c0819:PsiDirectoryNode" />
+              <item name="Classpack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Documen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Documen" type="462c0819:PsiDirectoryNode" />
+              <item name="Tornado_demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pytest-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jife\Desktop\Documen\shu-ju-ku\tests" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\每日作业\Documen\Tornado_demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jife\Desktop\Documen\shu-ju-ku\tests" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -169,8 +206,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.qq">
-    <configuration name="DatabasePackage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_case">
+    <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -183,25 +220,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Documen" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tornado_demo/DatabasePackage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="DatabasePackage" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shu-ju-ku" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Documen" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shu-ju-ku/DatabasePackage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tornado_demo/download.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,6 +243,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="test_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secondstage/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Documen" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secondstage/tests/test_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="test_class_dbpackage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,38 +279,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test_dbpackage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shu-ju-ku" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secondstage/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Documen" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shu-ju-ku/test_dbpackage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secondstage/tests/test_train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DatabasePackage" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_dbpackage" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DatabasePackage (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_class_dbpackage" />
-      <item index="4" class="java.lang.String" itemvalue="Python.qq" />
+      <item index="0" class="java.lang.String" itemvalue="Python.test_class_dbpackage" />
+      <item index="1" class="java.lang.String" itemvalue="Python.qq" />
+      <item index="2" class="java.lang.String" itemvalue="Python.download" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test_case" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_train" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.qq" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_class_dbpackage" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DatabasePackage" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DatabasePackage (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_dbpackage" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test_case" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_train" />
+        <item index="2" class="java.lang.String" itemvalue="Python.qq" />
+        <item index="3" class="java.lang.String" itemvalue="Python.download" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test_class_dbpackage" />
       </list>
     </recent_temporary>
   </component>
@@ -303,27 +340,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="729" y="0" width="1195" height="1033" extended-state="0" />
-    <editor active="true" />
+    <frame x="729" y="3" width="1198" height="1019" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19451812" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24162258" sideWeight="0.49376947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32550335" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29306486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31128848" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2919042" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4556678" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="24" y="316" width="1872" height="408" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24401368" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="24" y="316" width="1872" height="408" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2116716" sideWeight="0.50623053" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39782608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39680728" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -340,109 +376,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/d370.jpg" />
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/c980.jpg" />
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/c070.jpg" />
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/a08.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/tongrorf0058.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/fd0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/f6f.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/e57.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/e9d.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/dfe.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/de5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/d58.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/bd2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/c6c.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/c1a.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/c07.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/818.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/430.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/158.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/43c.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/6ec.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/8ed.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/79d.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://E:/Python27/DjangoEven/Lib/site-packages/tornado/httpclient.py" />
     <entry file="file://$PROJECT_DIR$/Tornado_demo/rrrr/8c1.jpg">
       <provider selected="true" editor-type-id="images">
@@ -460,7 +393,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/cat.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1703452659/sys.py" />
     <entry file="file://E:/Python27/DjangoEven/Lib/re.py" />
     <entry file="file://$PROJECT_DIR$/Tornado_demo/filename">
       <provider selected="true" editor-type-id="text-editor">
@@ -470,7 +402,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tornado_demo/config.ini" />
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1703452659/__builtin__.py" />
     <entry file="file://E:/Python27/Lib/functools.py" />
     <entry file="file://$PROJECT_DIR$/Tornado_demo/test.db" />
     <entry file="file://$PROJECT_DIR$/Tornado_demo/testing.out" />
@@ -488,27 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classpack/runing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Pytesttest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="998">
-          <caret line="160" column="19" lean-forward="true" selection-start-line="160" selection-start-column="19" selection-end-line="160" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/DatabasePackage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tornado_demo/demo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -516,98 +426,183 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/download.py">
+    <entry file="file://$PROJECT_DIR$/shu-ju-ku/db_package_test.py" />
+    <entry file="file://$PROJECT_DIR$/db_package_test/sqlite-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="765">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tornado_demo/AsynDownImg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-379">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shu-ju-ku/db_package_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/pytest/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="104" column="49" lean-forward="false" selection-start-line="104" selection-start-column="41" selection-end-line="104" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db_package_test/sqlite-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-          <folding>
-            <marker date="1560824527946" expanded="true" signature="124:325" ph="CREATE TABLE... COMPANY" />
-            <marker date="1560824527946" expanded="true" signature="381:477" ph="INSERT INTO COMPANY... " />
-            <marker date="1560824527946" expanded="true" signature="492:584" ph="INSERT INTO COMPANY... " />
-            <marker date="1560824527946" expanded="true" signature="599:692" ph="INSERT INTO COMPANY... " />
-            <marker date="1560824527946" expanded="true" signature="707:803" ph="INSERT INTO COMPANY... " />
-            <marker date="1560824527946" expanded="true" signature="819:861" ph="UPDATE COMPA... " />
-            <marker date="1560824527946" expanded="true" signature="875:929" ph="UPDATE COMPA... " />
-            <marker date="1560824527946" expanded="true" signature="1078:1124" ph="SELECT id, n... COMPANY" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tornado_demo/qq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="1274" column="13" lean-forward="false" selection-start-line="1274" selection-start-column="13" selection-end-line="1274" selection-end-column="13" />
-          <folding>
-            <marker date="1560922271897" expanded="true" signature="22174:22352" ph="CREATE TABLE... USER" />
-            <marker date="1560922271897" expanded="true" signature="22506:22564" ph="INSERT INTO USER... " />
-            <marker date="1560922271897" expanded="true" signature="22703:22753" ph="SELECT name,... USER" />
-            <marker date="1560922271897" expanded="true" signature="23186:23221" ph="UPDATE USER " />
-            <marker date="1560922271897" expanded="true" signature="23425:23457" ph="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db_package_test/db_test_fixed_parameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1210">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db_package_test/db_package.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1560865844456" expanded="true" signature="189:361" ph="CREATE TABLE... USER" />
-            <marker date="1560865844456" expanded="true" signature="445:503" ph="INSERT INTO USER... " />
-            <marker date="1560865844456" expanded="true" signature="640:690" ph="SELECT name,... USER" />
-            <marker date="1560865844456" expanded="true" signature="1097:1132" ph="UPDATE USER " />
-            <marker date="1560865844456" expanded="true" signature="1103:1132" ph="update USER " />
-            <marker date="1560865844456" expanded="true" signature="1354:1386" ph="DELETE FROM " />
-          </folding>
+        <state relative-caret-position="801">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_package_test/db_test_fixed_parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/sjf" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/pytest.ini.py" />
+    <entry file="file://$PROJECT_DIR$/Tornado_demo/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Pytesttest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="160" column="19" lean-forward="true" selection-start-line="160" selection-start-column="19" selection-end-line="160" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db_package_test/tests/db_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="88">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tornado_demo/DatabasePackage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1703452659/__builtin__.py" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/path" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/setup.cfg" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/setup.py" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/.eggs/README.txt" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1703452659/sys.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/pytest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="98" column="57" lean-forward="false" selection-start-line="98" selection-start-column="57" selection-end-line="98" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1703452659/exceptions.py" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/Lib/contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/DjangoEven/Lib/site-packages/allure/pytest_plugin.py" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/log1.txt" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/report.html" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/log.xml" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/test_para.py" />
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/conftest.py" />
+    <entry file="file://$PROJECT_DIR$/secondstage/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/DjangoEven/Lib/site-packages/attr/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4836">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/test_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="230" column="11" lean-forward="true" selection-start-line="230" selection-start-column="11" selection-end-line="230" selection-end-column="11" />
           <folding>
-            <element signature="e#17#30#0" expanded="true" />
+            <element signature="e#16#53#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#17#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classpack/runing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/test-selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondstage/tests/fixture内置参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tornado_demo/qq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <marker date="1561022388856" expanded="true" signature="22114:22292" ph="CREATE TABLE... USER" />
+            <marker date="1561022388856" expanded="true" signature="22446:22504" ph="INSERT INTO USER... " />
+            <marker date="1561022388856" expanded="true" signature="22643:22693" ph="SELECT name,... USER" />
+            <marker date="1561022388856" expanded="true" signature="23126:23161" ph="UPDATE USER " />
+            <marker date="1561022388856" expanded="true" signature="23365:23397" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>

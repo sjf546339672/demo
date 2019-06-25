@@ -1,8 +1,8 @@
 # coding:utf-8
-
-
 import pytest
+
 from db_package_test.db_package import DbUser
+
 
 class TestMethod(object):
 
@@ -20,14 +20,13 @@ class TestMethod(object):
     @pytest.mark.parametrize(
                         argnames="data",
                         argvalues=[
-                            {'name': 'zhangsan', 'age': 18,'job': 'student'},
+                            {'name': 'zhangsan', 'age': 18, 'job': 'student'},
                             {'name': 'lisi', 'age': 18, 'job': 'student'}
                         ])
     def test_get_exist(self, data):
         """# 定义测试获取数据函数"""
         result = self.db.get(data['name'])
         assert result == data
-
 
     @pytest.mark.parametrize(argnames="data",
                              argvalues=[

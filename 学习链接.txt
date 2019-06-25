@@ -1,0 +1,99 @@
+
+https://blog.csdn.net/weixin_42502742/article/details/80888794     shell脚本练习题
+https://github.com/yidao620c/python3-cookbook                          python cookbook书
+http://kb.uyunsoft.cn                                                                     优云知识点
+http://kb.uyunsoft.cn/pages/viewpage.action?pageId=75433180    插件的案例
+
+
+
+
+
+
+https://tornado-zh.readthedocs.io/zh/latest/     tornado 4.3
+
+https://www.cnblogs.com/zhuminghui/p/8206439.html     生成器和迭代器的练习题
+
+https://www.cnblogs.com/vipchenwei/p/7221851.html?utm_source=itdadao&utm_medium=referral     多线程和锁
+
+https://juejin.im/entry/58ae4636b123db0052b1caf8    并发、并行、阻塞、非阻塞
+
+https://blog.csdn.net/lengxiao1993/article/details/78154467   并发、并行、阻塞、非阻塞
+
+https://www.cnblogs.com/zhangyafei/p/9606765.html    python同步、异步、阻塞、非阻塞、并发、并行
+
+https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/      开源项目风格指南
+
+https://docs.pytest.org/en/latest/contents.html       pyetst测试文档
+
+http://www.testclass.net/pytest/                            pytest文档
+
+https://www.jianshu.com/p/2140b519028d            attr.s attr.ib() 简介
+---------------------------
+如何去写一个博客：
+https://www.phodal.com/blog/programmer-how-to-write-a-good-article/
+https://www.jianshu.com/p/ae9ab21a5730
+https://juejin.im/post/5c02b2bce51d4533253f2f43
+https://juejin.im/post/5c4d3585e51d4539f51d9d44
+-----------------------
+
+
+http://kb.uyunsoft.cn/pages/viewpage.action?pageId=27001008
+
+
+开发测试环境：http://newplat.dev.cn  
+用户名：admin
+密码：Admin@123
+
+https://github.com/yidao620c/python3-cookbook
+
+https://www.quanjing.com/creative/topic/1
+
+http://kb.uyunsoft.cn/pages/viewpage.action?pageId=75433180
+
+https://blog.csdn.net/li627528647/article/details/77544136
+
+https://blog.csdn.net/li627528647/article/details/77544136
+
+https://blog.csdn.net/lengxiao1993/article/details/78154467
+
+https://juejin.im/entry/58ae4636b123db0052b1caf8
+https://hexiangyu.me/2017/01/29/real-tornado-async-noblocking/
+https://www.bilibili.com/video/av46004706/?p=31
+
+
+http://10.1.61.105/tenant/#/    优云-Ant
+
+
+
+
+
+#http://10.1.61.105/automation/#/action/edit/f342df6eb3494837b55f3dbf59372ded/-1
+# bin/circled -c proc -l debug
+# ps -ef|grep python
+#PYTHONPATH=packages embedded/bin/python file_server.p
+#curl -X POST --data '{"file_path": "/opt/ant-agent/agent/file_server.py"}' http://127.0.0.1:15500/rest
+
+'''
+>>> import requests
+>>> r1 = requests.post('http://127.0.0.1:15500/rest', data=body)
+>>> r1 = requests.post('http://127.0.0.1:15500/rest', data=body)
+>>> resp = http_client.fetch('http://127.0.0.1:15500/rest', method='POST', body=body)
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
