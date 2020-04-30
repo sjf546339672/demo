@@ -20,5 +20,18 @@ from train_models import Person, School, Session
 # print(query_all)
 
 # 条件查询
-query = Session.query(Person.id, Person.name, Person.age).filter(Person.age > 30).all()
-print(query)
+# query = Session.query(
+#     Person.id,
+#     Person.name,
+#     Person.age).filter(Person.age > 30).all()
+
+# query = Session.query(
+#     School.id,
+#     School.class_name).filter(School.school_name == "舒城中学").all()
+# print(query)
+
+
+
+
+
+
